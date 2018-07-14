@@ -1,0 +1,16 @@
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.chaxunb.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.chaxunjgb.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.fabulxb.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.glcxjg.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.glyjm.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.xglx.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.yhzx.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.zhuce.resources
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\在这狂混\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
